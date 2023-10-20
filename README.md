@@ -1,6 +1,6 @@
 - 👋 Olá meu nome é Cristina Yoshimura Guedes
 - 👀 Sou Professora  da Escola Neydy
-- 🌱 Leciono Tecnologia 
+- 🌱 Conteúdo:Tecnologia 
 - 💞️ 9º A e 9º B 2023
 - 📫 
 <!---
