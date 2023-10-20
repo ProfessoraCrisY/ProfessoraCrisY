@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ProfessoraCrisY
+- 👋 Olá meu nome é Cristina Yoshimura Guedes
 - 👀 Sou Professora  da Escola Neydy
 - 🌱 Leciono Tecnologia 
 - 💞️ 9º A e 9º B 
