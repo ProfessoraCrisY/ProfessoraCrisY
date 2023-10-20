@@ -1,7 +1,7 @@
 - 👋 Olá meu nome é Cristina Yoshimura Guedes
 - 👀 Sou Professora  da Escola Neydy
 - 🌱 Leciono Tecnologia 
-- 💞️ 9º A e 9º B 
+- 💞️ 9º A e 9º B 2023
 - 📫 
 <!---
 ProfessoraCrisY/ProfessoraCrisY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
